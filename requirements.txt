@@ -1,0 +1,4 @@
+opencv-python
+requests
+PyQt5
+PyQtWebEngine
