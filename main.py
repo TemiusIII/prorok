@@ -6,9 +6,6 @@ import requests
 import threading
 from time import sleep
 
-import sys
-
-from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import Qt, QUrl, QTimer
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEngineSettings
 
